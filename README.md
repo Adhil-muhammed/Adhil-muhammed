@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Adhil-muhammed
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...MERN Stack development 
-- 💞️ I’m looking to collaborate with...intelligent programmer
+- 💞️ I’m looking to collaborate with...intelligent developers
+
 - 📫 How to reach me ...check my git hub profile 
 
 <!---
