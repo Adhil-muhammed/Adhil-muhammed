@@ -11,7 +11,7 @@
 
 ## Connect with me
 
-- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/anusree-m-j-003756286/)
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/adhil-n-5808b9238/)
 - 🌐 Website: [Portfolio](https://portfolio-anusreemj.vercel.app/)
 
 ## Languages and Tools
