@@ -3,7 +3,7 @@
 
   - 💬 Ask me about ** React, JavaScript, Node, Express, TypeScript, MongoDb, Sql, DSA, C and Java **
 
-  - 📫 How to reach me ** anu.mj0608@gmail.com**
+  - 📫 How to reach me ** adhiltajudeen@gmail.com**
 
   - ⚡ Fun fact: ** I can't resist the allure of a new side project, often starting one before finishing the current. Exploring new ideas is my cosmic adventure! 🚀🌌**
 
@@ -12,7 +12,7 @@
 ## Connect with me
 
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/adhil-n-5808b9238/)
-- 🌐 Website: [Portfolio](https://portfolio-anusreemj.vercel.app/)
+- 🌐 Website: [Portfolio]()
 
 ## Languages and Tools
 
